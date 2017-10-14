@@ -1,6 +1,6 @@
 [submodule "cocal"]
 	path = cocal
-	url = https://github.com/alehaa/cocal.git
+	url = git@github.com:gertoe/cocal.git
 [submodule "hhvm-docker"]
 	path = hhvm-docker
 	url = https://github.com/hhvm/hhvm-docker.git
